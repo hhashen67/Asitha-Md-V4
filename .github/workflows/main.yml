@@ -1,6 +1,10 @@
+
+
+
+seesan id:𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=a6oFWZTA#b70PNHTCquw1wCA3tPsDZbWJXkl37OdoWnKFFZa6dUo
 name: Node.js Package
 
-on:Seesan id:𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=a6oFWZTA#b70PNHTCquw1wCA3tPsDZbWJXkl37OdoWnKFFZa6dUo
+on:
   release:
     types: [created]
 
